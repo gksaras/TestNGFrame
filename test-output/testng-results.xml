@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34" started-at="2022-12-17T14:33:47Z" finished-at="2022-12-17T14:33:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34" started-at="2022-12-17T14:33:47Z" finished-at="2022-12-17T14:33:47Z">
+      <class name="org.demo.Sample">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.demo.Sample@5442a311]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-12-17T14:33:47Z" finished-at="2022-12-17T14:33:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.demo.Sample@5442a311]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-12-17T14:33:47Z" finished-at="2022-12-17T14:33:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.demo.Sample@5442a311]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-12-17T14:33:47Z" finished-at="2022-12-17T14:33:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.demo.Sample@5442a311]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-12-17T14:33:47Z" finished-at="2022-12-17T14:33:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:org.demo.Sample@5442a311]" name="test" duration-ms="0" started-at="2022-12-17T14:33:47Z" finished-at="2022-12-17T14:33:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- org.demo.Sample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
